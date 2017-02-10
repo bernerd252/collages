@@ -1,9 +1,18 @@
 #background{
   display: block;
  width:100%;
+
+
 }
 
 #pool{
   display:block;
   width:80%;
-}
+ }
+
+#nway{
+  display:block;
+  width:100%;
+  position:absolute;
+  top:10%;
+ }
